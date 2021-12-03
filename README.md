@@ -12,20 +12,20 @@ This was a very intersting project where i've learned new skills like
 
 This app is running on Heroku: https://course-java-spring-udemy-eduar.herokuapp.com/
 
-#GET
-##endpoint for findAll()users list: 
+# GET
+## endpoint for findAll()users list: 
 https://course-java-spring-udemy-eduar.herokuapp.com/users /{id} to findById()
 
-##endpoint for findAll() categories list:
+## endpoint for findAll() categories list:
 https://course-java-spring-udemy-eduar.herokuapp.com/categories /{id} to findById()
 
-##endpoint for findAll orders list: 
+## endpoint for findAll orders list: 
 https://course-java-spring-udemy-eduar.herokuapp.com/orders /{id} to findById()
 
-##endpoint for findAll() products list: 
+## endpoint for findAll() products list: 
 https://course-java-spring-udemy-eduar.herokuapp.com/products /{id} to findById()
 
-##There is also POST, DELETE and UPDATE functions.
+## There is also POST, DELETE and UPDATE functions.
 
 
 The project was made using this UML diagram.
