@@ -1,4 +1,4 @@
-# Spring-First-Project
+# Order System Project
 
 A small project made during a Java Udemy course. This is just backend app with endpoints.
 This was a very intersting project where i've learned new skills like
