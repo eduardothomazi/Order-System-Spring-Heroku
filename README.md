@@ -25,7 +25,7 @@ https://course-java-spring-udemy-eduar.herokuapp.com/orders /{id} to findById()
 ## endpoint for findAll() products list: 
 https://course-java-spring-udemy-eduar.herokuapp.com/products /{id} to findById()
 
-## There is also POST, DELETE and UPDATE functions.
+## There are also POST, DELETE and UPDATE functions.
 
 
 The project was made using this UML diagram.
